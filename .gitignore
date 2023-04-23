@@ -16,7 +16,7 @@ offline_user.md
 .springBeans
 
 ### IntelliJ IDEA ###
-.idea
+.idea_bk
 *.iws
 *.iml
 *.ipr
